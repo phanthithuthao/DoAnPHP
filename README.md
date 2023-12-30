@@ -7,7 +7,8 @@
 ```
   - Di chuyển source code vào thư mục www/htdocs
   - Bật wamp / xampp để chạy trên localhost
-  - Vào phpadmin tạo database tên id21344948_doan_thweb import database trong source code vào database vừa tạo
+  - Đăng nhập vào phpadmin bằng tài khoản root, không có password
+  - Tạo database tên id21344948_doan_thweb và import database trong source code vào database vừa tạo
 
 # Hướng dẫn sử dụng website kinh doanh xe ô tô
 1. Dành cho khách hàng
