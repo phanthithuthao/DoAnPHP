@@ -1,0 +1,7 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+
+# Rewrite mode tin tuc #
+RewriteRule ^index.html index.php
+RewriteRule ^cart.html cart.php
+RewriteRule ^car-details.html car-details.php
